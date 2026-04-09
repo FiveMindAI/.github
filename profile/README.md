@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fivemind.io/fivemind.svg" alt="FiveMind" width="120" />
+  <img src="https://fivemind.io/fivemind.svg" alt="FiveMind" width="100" />
 </p>
 
 <h1 align="center">FiveMind</h1>
